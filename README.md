@@ -3,7 +3,7 @@ SciFidelity-Jazz-Orchestra
 
 bands material
 
-![alt tag](https://raw.github.com/schef/scifidelity-jazz-orchestra/images/Sci-Fidelity_Jazz_Orchestra.png)
+![alt tag](https://raw.github.com/schef/SciFidelity-Jazz-Orchestra/master/images/Sci-Fidelity_Jazz_Orchestra.jpg)
 
 Songs are published at https://soundcloud.com/schef/sets/scifidelity-jazz-orchestra
 
