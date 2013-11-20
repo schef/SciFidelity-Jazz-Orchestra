@@ -3,7 +3,7 @@ SciFidelity-Jazz-Orchestra
 
 This site is dedicated for band materials
 
-![alt tag](https://raw.github.com/schef/SciFidelity-Jazz-Orchestra/master/images/Sci-Fidelity_Jazz_Orchestra.jpg)
+![alt tag](https://raw.github.com/schef/SciFidelity-Jazz-Orchestra/master/binary/images/Sci-Fidelity_Jazz_Orchestra.jpg)
 
 Developed ideas are published at https://soundcloud.com/schef/sets/scifidelity-jazz-orchestra
 
