@@ -17,7 +17,7 @@
 
 \header	{
 	title =		\markup { \fontsize #+4   "PREFRIGIJSKO LOKRIJSKA"}
-	subtitle =	\markup { \fontsize #+1   "(Vježba in Eb)"	}
+	subtitle =	\markup { \fontsize #+1   "(Vježba in Bb)"	}
 	poet =		\markup { \fontsize #+1   "Ska | Swing"	}
 	composer = 	\markup { \fontsize #+1   "Stjepan Horvat"}
 }
@@ -46,8 +46,8 @@ klarinet = \relative c' {
 }
 \score {
 	<<
-	\new ChordNames \transpose es c \accords
-    \new Staff \new Voice = chant { \transpose es c' \klarinet }
+	\new ChordNames \transpose c c \accords
+    \new Staff \new Voice = chant { \transpose c c \klarinet }
 	>>
     \layout {
     \context { \Score
